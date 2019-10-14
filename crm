@@ -1,0 +1,29 @@
+<p>Questo articolo parla del sistema di CUSTOMER RELATIONSHIP MANAGEMENT.</p>
+<p> </p>
+<p>I reali contenuti formativi sono contenuti nei documenti esterni citati e raggiungibili con i link.</p>
+<p>I vari temi possono essere approfonditi ulteriormente facendo riferimento ad altro materiale ufficiale Vtiger CRM o di terze parti.</p>
+<p> </p>
+<p> </p>
+<h1>1     CRM</h1>
+<table border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td width="86"><strong>Sequenza</strong></td>
+<td width="252"><strong>Nome doc. e link</strong></td>
+<td width="302"><strong>Note</strong></td>
+</tr>
+<tr>
+<td width="86">        1</td>
+<td width="252"><a href="https://drive.google.com/file/d/1Uh4onPl0Oi7M72gHNINUdvHknEPukCb4/view?usp=sharing">CRM_OVERVIEW</a></td>
+<td width="302">Introduzione ad un sistema CRM e al software VTIGER (solo aspetti generali)</td>
+</tr>
+<tr>
+<td width="86">        2</td>
+<td width="252"><a href="https://drive.google.com/file/d/1ynV7ntwebMhgPxBdzP24iisKdFiU-1Vk/view?usp=sharing">PROCESSI_VTIGER_CRM</a></td>
+<td width="302">Processi aziendali per l’utilizzo di Vtiger CRM (dettaglio dei moduli del software)</td>
+</tr>
+<tr>
+<td width="86">        3</td>
+<td width="252"><a href="https://drive.google.com/file/d/1ExQr5Abap-uC5463XUX3rf1_iMk20XBS/view?usp=sharing">QLIK_APP_CRM</a></td>
+<td width="302">Presentazione con snapshots dell’applicazione QlikSense per l’analisi dei dati CRM.</td>
+</tr>
+</table>
