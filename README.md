@@ -15,7 +15,7 @@ Sonia Migliorati for Bayesian Statistics (inference and MCMC algorithms)\
 Gianna Monti for Computational Statistics \
 Andrea Ongaro for Stochastic Processes \
 Matteo Pelagatti for Economic Statistics (UCM, Kalman Filtering, Time Series)\
-Aldo Solari for Statistical Learning & Data Mining \
+Aldo Solari for Statistical Learning & Data Mining 
 
 
 
