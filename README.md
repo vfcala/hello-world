@@ -8,7 +8,7 @@ I'm strongly passionate about Microeconomics, Probability and Data Science; in p
 I want to thank you all the inspiring professors that I've met during my studies and who teach me in class or through their materials what I master now. 
 
 Most of the pages that I will publish in this section are my personal notes based on professors' materials / lessons. All credits goes to them, namely: 
-- Borgoni Riccardo for Spatial Statistics (Point Poisson Processes and Spatial Stochastic Processes, ...)
+- Borgoni Riccardo for Spatial Statistics (Point Poisson Processes and Spatial Stochastic Processes, Kriging for spatial predictions)
 - Lunardon Nicola for Multivariate Statistics (Dimensionality-reduction, Discriminant Analysis, Trees, Neural Networks, ...)
 - Manera Matteo for Applied Economics & Econometrics (applications on STATA of economic models, microeconomic modelling, ...)
 - Migliorati Sonia for Bayesian Statistics (Inference, Decision Theory and MCMC algorithms, ...)
